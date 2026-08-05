@@ -1,6 +1,8 @@
 # Ground Risk research
 
-The complete research conclusion and prototype specification is in [ground-risk-research-report.md](ground-risk-research-report.md).
+Start with the [interactive model and implementation explainer](ground-risk-model-explainer.html). It visualises how the Modular Bayesian Generative Risk Graph is created, run, maintained and governed; includes a seeded worked-model simulator, AI trust-boundary walkthrough, implementation architecture, comparison sensitivity controls, roadmap, tooltips and the complete research report in an expandable section.
+
+The complete Markdown research conclusion and prototype specification remains available in [ground-risk-research-report.md](ground-risk-research-report.md).
 
 The report follows the repository research brief's required 19-section structure and includes inline evidence-type labels, source-publication status, DOI/stable links, a complete bibliography, transparent scoring and sensitivity analysis, architecture and data contracts, full/incremental algorithms, governed agent workflows, a reproducible worked example, validation gates, and a phased implementation plan.
 

@@ -1,5 +1,10 @@
 # Ground Risk
 
+## Research outputs
+
+- [Interactive model and implementation explainer](docs/ground-risk-model-explainer.html) — step through model creation, execution, maintenance, AI trust boundaries, architecture, evaluation, governance, and the worked simulation.
+- [Complete research conclusion and prototype specification](docs/ground-risk-research-report.md) — the cited 19-section report and full bibliography.
+
 ## Deep research prompt
 
 ### Agent-driven, domain-agnostic risk aggregation model
