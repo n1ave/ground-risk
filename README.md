@@ -3,6 +3,7 @@
 ## Research outputs
 
 - [Interactive model and implementation explainer](docs/ground-risk-model-explainer.html) — step through model creation, execution, maintenance, AI trust boundaries, architecture, evaluation, governance, and the worked simulation.
+- [Cyber risk management worked example](docs/cyber-risk-worked-example.md) — a cited ransomware/data-exfiltration case with a loss vector, evidence update, treatment decision, AI boundary, streaming event and reproducible simulation.
 - [Complete research conclusion and prototype specification](docs/ground-risk-research-report.md) — the cited 19-section report and full bibliography.
 
 ## Deep research prompt
